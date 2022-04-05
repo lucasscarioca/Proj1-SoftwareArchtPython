@@ -1,0 +1,234 @@
+{'CUSTOMER_INIT': {'username': 'marcelo', 'name': 'Marcelo', 'dict_key': 'customers', 'user_id': None}}
+{'NEWLY_GEN_USER_ID': 1}
+{'ADD_USER_JSON': {'customers': {'1': {'username': 'marcelo', 'name': 'Marcelo'}, '2': {'username': 'tomas', 'name': 'Tomas'}, '3': {'username': 'john', 'name': 'John'}, '4': {'username': 'pedro', 'name': 'Pedro'}}, 'employees': {'1': {'username': 'joao', 'name': 'Joao'}, '2': {'username': 'marcos', 'name': 'Marcos'}}}}
+{'CUSTOMER_INIT': {'username': 'marcelo', 'name': 'Marcelo', 'dict_key': 'customers', 'user_id': None}}
+{'NEWLY_GEN_USER_ID': 2}
+{'CUSTOMER_INIT': {'username': 'tomas', 'name': 'Tomas', 'dict_key': 'customers', 'user_id': None}}
+{'NEWLY_GEN_USER_ID': 2}
+{'ADD_USER_JSON': {'customers': {'1': {'username': 'marcelo', 'name': 'Marcelo'}, '2': {'username': 'tomas', 'name': 'Tomas'}, '3': {'username': 'john', 'name': 'John'}, '4': {'username': 'pedro', 'name': 'Pedro'}}, 'employees': {'1': {'username': 'joao', 'name': 'Joao'}, '2': {'username': 'marcos', 'name': 'Marcos'}}}}
+{'CUSTOMER_INIT': {'username': 'john', 'name': 'John', 'dict_key': 'customers', 'user_id': None}}
+{'NEWLY_GEN_USER_ID': 3}
+{'ADD_USER_JSON': {'customers': {'1': {'username': 'marcelo', 'name': 'Marcelo'}, '2': {'username': 'tomas', 'name': 'Tomas'}, '3': {'username': 'john', 'name': 'John'}, '4': {'username': 'pedro', 'name': 'Pedro'}}, 'employees': {'1': {'username': 'joao', 'name': 'Joao'}, '2': {'username': 'marcos', 'name': 'Marcos'}}}}
+{'CUSTOMER_INIT': {'username': 'pedro', 'name': 'Pedro', 'dict_key': 'customers', 'user_id': None}}
+{'NEWLY_GEN_USER_ID': 4}
+{'ADD_USER_JSON': {'customers': {'1': {'username': 'marcelo', 'name': 'Marcelo'}, '2': {'username': 'tomas', 'name': 'Tomas'}, '3': {'username': 'john', 'name': 'John'}, '4': {'username': 'pedro', 'name': 'Pedro'}}, 'employees': {'1': {'username': 'joao', 'name': 'Joao'}, '2': {'username': 'marcos', 'name': 'Marcos'}}}}
+{'NEWLY_GEN_USER_ID': 1}
+{'ADD_USER_JSON': {'customers': {'1': {'username': 'marcelo', 'name': 'Marcelo'}, '2': {'username': 'tomas', 'name': 'Tomas'}, '3': {'username': 'john', 'name': 'John'}, '4': {'username': 'pedro', 'name': 'Pedro'}}, 'employees': {'1': {'username': 'joao', 'name': 'Joao'}, '2': {'username': 'marcos', 'name': 'Marcos'}}}}
+{'NEWLY_GEN_USER_ID': 2}
+{'ADD_USER_JSON': {'customers': {'1': {'username': 'marcelo', 'name': 'Marcelo'}, '2': {'username': 'tomas', 'name': 'Tomas'}, '3': {'username': 'john', 'name': 'John'}, '4': {'username': 'pedro', 'name': 'Pedro'}}, 'employees': {'1': {'username': 'joao', 'name': 'Joao'}, '2': {'username': 'marcos', 'name': 'Marcos'}}}}
+{'CUSTOMER_INIT': {'username': 'james', 'name': 'James Bond', 'dict_key': 'customers', 'user_id': None}}
+{'NEWLY_GEN_USER_ID': 5}
+{'ADD_USER_JSON': {'customers': {'1': {'username': 'marcelo', 'name': 'Marcelo'}, '2': {'username': 'tomas', 'name': 'Tomas'}, '3': {'username': 'john', 'name': 'John'}, '4': {'username': 'pedro', 'name': 'Pedro'}}, 'employees': {'1': {'username': 'joao', 'name': 'Joao'}, '2': {'username': 'marcos', 'name': 'Marcos'}}}}
+{'CUSTOMER_EDIT': {'username': 'daniel', 'name': 'Daniel Craig', 'dict_key': 'customers'}}
+{'EDIT_USER_JSON': {'customers': {'1': {'username': 'marcelo', 'name': 'Marcelo'}, '2': {'username': 'tomas', 'name': 'Tomas'}, '3': {'username': 'john', 'name': 'John'}, '4': {'username': 'pedro', 'name': 'Pedro'}}, 'employees': {'1': {'username': 'joao', 'name': 'Joao'}, '2': {'username': 'marcos', 'name': 'Marcos'}}}}
+{'CUSTOMER_DELETE': {'user_id': 5}}
+{'CASCADE_DELETION': 'started'}
+{'CASCADE_DELETION': 'finish'}
+---END OF EXECUTION!---
+{'CUSTOMER_INIT': {'username': 'marcelo', 'name': 'Marcelo', 'dict_key': 'customers', 'user_id': 1}}
+{'CUSTOMER_INIT': {'username': 'tomas', 'name': 'Tomas', 'dict_key': 'customers', 'user_id': 2}}
+{'CUSTOMER_INIT': {'username': 'john', 'name': 'John', 'dict_key': 'customers', 'user_id': 3}}
+{'CUSTOMER_INIT': {'username': 'pedro', 'name': 'Pedro', 'dict_key': 'customers', 'user_id': 4}}
+{'CUSTOMER_INIT': {'username': 'marcelo', 'name': 'Marcelo', 'dict_key': 'customers', 'user_id': None}}
+{'NEWLY_GEN_USER_ID': 5}
+{'CUSTOMER_INIT': {'username': 'marcelo', 'name': 'Marcelo', 'dict_key': 'customers', 'user_id': None}}
+{'NEWLY_GEN_USER_ID': 5}
+{'CUSTOMER_INIT': {'username': 'tomas', 'name': 'Tomas', 'dict_key': 'customers', 'user_id': None}}
+{'NEWLY_GEN_USER_ID': 5}
+{'CUSTOMER_INIT': {'username': 'john', 'name': 'John', 'dict_key': 'customers', 'user_id': None}}
+{'NEWLY_GEN_USER_ID': 5}
+{'CUSTOMER_INIT': {'username': 'pedro', 'name': 'Pedro', 'dict_key': 'customers', 'user_id': None}}
+{'NEWLY_GEN_USER_ID': 5}
+{'NEWLY_GEN_USER_ID': 3}
+{'NEWLY_GEN_USER_ID': 3}
+{'NEWLY_GEN_PRODUCT_ID': 4}
+{'ADD_PRODUCT_JSON': {'products': {'1': {'product': 'Carro11', 'price': 15500.0, 'qtty': 3}, '2': {'product': 'Carro12', 'price': 16000.0, 'qtty': 4}, '3': {'product': 'Carro13', 'price': 12000.0, 'qtty': 5}, '4': {'product': 'Carro1', 'price': 15000.0, 'qtty': 5}, '5': {'product': 'Carro2', 'price': 25000.0, 'qtty': 10}, '6': {'product': 'Carro3', 'price': 35000.0, 'qtty': 15}, '7': {'product': 'Carro4', 'price': 45000.0, 'qtty': 20}, '8': {'product': 'Moto', 'price': 8000.0, 'qtty': 12}}}}
+{'NEWLY_GEN_PRODUCT_ID': 5}
+{'ADD_PRODUCT_JSON': {'products': {'1': {'product': 'Carro11', 'price': 15500.0, 'qtty': 3}, '2': {'product': 'Carro12', 'price': 16000.0, 'qtty': 4}, '3': {'product': 'Carro13', 'price': 12000.0, 'qtty': 5}, '4': {'product': 'Carro1', 'price': 15000.0, 'qtty': 5}, '5': {'product': 'Carro2', 'price': 25000.0, 'qtty': 10}, '6': {'product': 'Carro3', 'price': 35000.0, 'qtty': 15}, '7': {'product': 'Carro4', 'price': 45000.0, 'qtty': 20}, '8': {'product': 'Moto', 'price': 8000.0, 'qtty': 12}}}}
+{'NEWLY_GEN_PRODUCT_ID': 6}
+{'ADD_PRODUCT_JSON': {'products': {'1': {'product': 'Carro11', 'price': 15500.0, 'qtty': 3}, '2': {'product': 'Carro12', 'price': 16000.0, 'qtty': 4}, '3': {'product': 'Carro13', 'price': 12000.0, 'qtty': 5}, '4': {'product': 'Carro1', 'price': 15000.0, 'qtty': 5}, '5': {'product': 'Carro2', 'price': 25000.0, 'qtty': 10}, '6': {'product': 'Carro3', 'price': 35000.0, 'qtty': 15}, '7': {'product': 'Carro4', 'price': 45000.0, 'qtty': 20}, '8': {'product': 'Moto', 'price': 8000.0, 'qtty': 12}}}}
+{'NEWLY_GEN_PRODUCT_ID': 7}
+{'ADD_PRODUCT_JSON': {'products': {'1': {'product': 'Carro11', 'price': 15500.0, 'qtty': 3}, '2': {'product': 'Carro12', 'price': 16000.0, 'qtty': 4}, '3': {'product': 'Carro13', 'price': 12000.0, 'qtty': 5}, '4': {'product': 'Carro1', 'price': 15000.0, 'qtty': 5}, '5': {'product': 'Carro2', 'price': 25000.0, 'qtty': 10}, '6': {'product': 'Carro3', 'price': 35000.0, 'qtty': 15}, '7': {'product': 'Carro4', 'price': 45000.0, 'qtty': 20}, '8': {'product': 'Moto', 'price': 8000.0, 'qtty': 12}}}}
+{'CUSTOMER_INIT': {'username': 'james', 'name': 'James Bond', 'dict_key': 'customers', 'user_id': None}}
+{'NEWLY_GEN_USER_ID': 5}
+{'ADD_USER_JSON': {'customers': {'1': {'username': 'marcelo', 'name': 'Marcelo'}, '2': {'username': 'tomas', 'name': 'Tomas'}, '3': {'username': 'john', 'name': 'John'}, '4': {'username': 'pedro', 'name': 'Pedro'}}, 'employees': {'1': {'username': 'joao', 'name': 'Joao'}, '2': {'username': 'marcos', 'name': 'Marcos'}, '3': {'username': 'Jackie', 'name': 'Jackie Chan'}}}}
+{'CUSTOMER_EDIT': {'username': 'daniel', 'name': 'Daniel Craig', 'dict_key': 'customers'}}
+{'EDIT_USER_JSON': {'customers': {'1': {'username': 'marcelo', 'name': 'Marcelo'}, '2': {'username': 'tomas', 'name': 'Tomas'}, '3': {'username': 'john', 'name': 'John'}, '4': {'username': 'pedro', 'name': 'Pedro'}}, 'employees': {'1': {'username': 'joao', 'name': 'Joao'}, '2': {'username': 'marcos', 'name': 'Marcos'}, '3': {'username': 'Jackie', 'name': 'Jackie Chan'}}}}
+{'CUSTOMER_DELETE': {'user_id': 5}}
+{'CASCADE_DELETION': 'started'}
+{'CASCADE_DELETION': 'finish'}
+{'NEWLY_GEN_USER_ID': 3}
+{'ADD_USER_JSON': {'customers': {'1': {'username': 'marcelo', 'name': 'Marcelo'}, '2': {'username': 'tomas', 'name': 'Tomas'}, '3': {'username': 'john', 'name': 'John'}, '4': {'username': 'pedro', 'name': 'Pedro'}}, 'employees': {'1': {'username': 'joao', 'name': 'Joao'}, '2': {'username': 'marcos', 'name': 'Marcos'}, '3': {'username': 'Jackie', 'name': 'Jackie Chan'}}}}
+{'NEWLY_GEN_PRODUCT_ID': 8}
+{'ADD_PRODUCT_JSON': {'products': {'1': {'product': 'Carro11', 'price': 15500.0, 'qtty': 3}, '2': {'product': 'Carro12', 'price': 16000.0, 'qtty': 4}, '3': {'product': 'Carro13', 'price': 12000.0, 'qtty': 5}, '4': {'product': 'Carro1', 'price': 15000.0, 'qtty': 5}, '5': {'product': 'Carro2', 'price': 25000.0, 'qtty': 10}, '6': {'product': 'Carro3', 'price': 35000.0, 'qtty': 15}, '7': {'product': 'Carro4', 'price': 45000.0, 'qtty': 20}, '8': {'product': 'Moto', 'price': 8000.0, 'qtty': 12}}}}
+---END OF EXECUTION!---
+{'CUSTOMER_INIT': {'username': 'marcelo', 'name': 'Marcelo', 'dict_key': 'customers', 'user_id': 1}}
+{'CUSTOMER_INIT': {'username': 'tomas', 'name': 'Tomas', 'dict_key': 'customers', 'user_id': 2}}
+{'CUSTOMER_INIT': {'username': 'john', 'name': 'John', 'dict_key': 'customers', 'user_id': 3}}
+{'CUSTOMER_INIT': {'username': 'pedro', 'name': 'Pedro', 'dict_key': 'customers', 'user_id': 4}}
+{'CUSTOMER_INIT': {'username': 'marcelo', 'name': 'Marcelo', 'dict_key': 'customers', 'user_id': None}}
+{'NEWLY_GEN_USER_ID': 5}
+{'CUSTOMER_INIT': {'username': 'marcelo', 'name': 'Marcelo', 'dict_key': 'customers', 'user_id': None}}
+{'NEWLY_GEN_USER_ID': 5}
+{'CUSTOMER_INIT': {'username': 'tomas', 'name': 'Tomas', 'dict_key': 'customers', 'user_id': None}}
+{'NEWLY_GEN_USER_ID': 5}
+{'CUSTOMER_INIT': {'username': 'john', 'name': 'John', 'dict_key': 'customers', 'user_id': None}}
+{'NEWLY_GEN_USER_ID': 5}
+{'CUSTOMER_INIT': {'username': 'pedro', 'name': 'Pedro', 'dict_key': 'customers', 'user_id': None}}
+{'NEWLY_GEN_USER_ID': 5}
+{'NEWLY_GEN_USER_ID': 3}
+{'NEWLY_GEN_USER_ID': 3}
+{'NEWLY_GEN_PRODUCT_ID': 8}
+{'NEWLY_GEN_PRODUCT_ID': 8}
+{'NEWLY_GEN_PRODUCT_ID': 8}
+{'NEWLY_GEN_PRODUCT_ID': 8}
+{'CUSTOMER_INIT': {'username': 'james', 'name': 'James Bond', 'dict_key': 'customers', 'user_id': None}}
+{'NEWLY_GEN_USER_ID': 5}
+{'ADD_USER_JSON': {'customers': {'1': {'username': 'marcelo', 'name': 'Marcelo'}, '2': {'username': 'tomas', 'name': 'Tomas'}, '3': {'username': 'john', 'name': 'John'}, '4': {'username': 'pedro', 'name': 'Pedro'}}, 'employees': {'1': {'username': 'joao', 'name': 'Joao'}, '2': {'username': 'marcos', 'name': 'Marcos'}, '3': {'username': 'Jackie', 'name': 'Jackie Chan'}}}}
+{'CUSTOMER_EDIT': {'username': 'daniel', 'name': 'Daniel Craig', 'dict_key': 'customers'}}
+{'EDIT_USER_JSON': {'customers': {'1': {'username': 'marcelo', 'name': 'Marcelo'}, '2': {'username': 'tomas', 'name': 'Tomas'}, '3': {'username': 'john', 'name': 'John'}, '4': {'username': 'pedro', 'name': 'Pedro'}}, 'employees': {'1': {'username': 'joao', 'name': 'Joao'}, '2': {'username': 'marcos', 'name': 'Marcos'}, '3': {'username': 'Jackie', 'name': 'Jackie Chan'}}}}
+{'CUSTOMER_DELETE': {'user_id': 5}}
+{'CASCADE_DELETION': 'started'}
+{'CASCADE_DELETION': 'finish'}
+{'NEWLY_GEN_USER_ID': 3}
+{'ADD_USER_JSON': {'customers': {'1': {'username': 'marcelo', 'name': 'Marcelo'}, '2': {'username': 'tomas', 'name': 'Tomas'}, '3': {'username': 'john', 'name': 'John'}, '4': {'username': 'pedro', 'name': 'Pedro'}}, 'employees': {'1': {'username': 'joao', 'name': 'Joao'}, '2': {'username': 'marcos', 'name': 'Marcos'}, '3': {'username': 'Jackie', 'name': 'Jackie Chan'}}}}
+{'NEWLY_GEN_PRODUCT_ID': 8}
+{'ADD_PRODUCT_JSON': {'products': {'1': {'product': 'Carro11', 'price': 15500.0, 'qtty': 3}, '2': {'product': 'Carro12', 'price': 16000.0, 'qtty': 4}, '3': {'product': 'Carro13', 'price': 12000.0, 'qtty': 5}, '4': {'product': 'Carro1', 'price': 15000.0, 'qtty': 5}, '5': {'product': 'Carro2', 'price': 25000.0, 'qtty': 10}, '6': {'product': 'Carro3', 'price': 35000.0, 'qtty': 15}, '7': {'product': 'Carro4', 'price': 45000.0, 'qtty': 20}, '8': {'product': 'Moto', 'price': 8000.0, 'qtty': 12}}}}
+---END OF EXECUTION!---
+{'CUSTOMER_INIT': {'username': 'marcelo', 'name': 'Marcelo', 'dict_key': 'customers', 'user_id': 1}}
+{'CUSTOMER_INIT': {'username': 'tomas', 'name': 'Tomas', 'dict_key': 'customers', 'user_id': 2}}
+{'CUSTOMER_INIT': {'username': 'john', 'name': 'John', 'dict_key': 'customers', 'user_id': 3}}
+{'CUSTOMER_INIT': {'username': 'pedro', 'name': 'Pedro', 'dict_key': 'customers', 'user_id': 4}}
+{'CUSTOMER_INIT': {'username': 'marcelo', 'name': 'Marcelo', 'dict_key': 'customers', 'user_id': None}}
+{'NEWLY_GEN_USER_ID': 5}
+{'CUSTOMER_INIT': {'username': 'marcelo', 'name': 'Marcelo', 'dict_key': 'customers', 'user_id': None}}
+{'NEWLY_GEN_USER_ID': 5}
+{'CUSTOMER_INIT': {'username': 'tomas', 'name': 'Tomas', 'dict_key': 'customers', 'user_id': None}}
+{'NEWLY_GEN_USER_ID': 5}
+{'CUSTOMER_INIT': {'username': 'john', 'name': 'John', 'dict_key': 'customers', 'user_id': None}}
+{'NEWLY_GEN_USER_ID': 5}
+{'CUSTOMER_INIT': {'username': 'pedro', 'name': 'Pedro', 'dict_key': 'customers', 'user_id': None}}
+{'NEWLY_GEN_USER_ID': 5}
+{'NEWLY_GEN_USER_ID': 3}
+{'NEWLY_GEN_USER_ID': 3}
+{'NEWLY_GEN_PRODUCT_ID': 8}
+{'NEWLY_GEN_PRODUCT_ID': 8}
+{'NEWLY_GEN_PRODUCT_ID': 8}
+{'NEWLY_GEN_PRODUCT_ID': 8}
+{'CUSTOMER_INIT': {'username': 'james', 'name': 'James Bond', 'dict_key': 'customers', 'user_id': None}}
+{'NEWLY_GEN_USER_ID': 5}
+{'ADD_USER_JSON': {'customers': {'1': {'username': 'marcelo', 'name': 'Marcelo'}, '2': {'username': 'tomas', 'name': 'Tomas'}, '3': {'username': 'john', 'name': 'John'}, '4': {'username': 'pedro', 'name': 'Pedro'}}, 'employees': {'1': {'username': 'joao', 'name': 'Joao'}, '2': {'username': 'marcos', 'name': 'Marcos'}, '3': {'username': 'Jackie', 'name': 'Jackie Chan'}}}}
+{'CUSTOMER_EDIT': {'username': 'daniel', 'name': 'Daniel Craig', 'dict_key': 'customers'}}
+{'EDIT_USER_JSON': {'customers': {'1': {'username': 'marcelo', 'name': 'Marcelo'}, '2': {'username': 'tomas', 'name': 'Tomas'}, '3': {'username': 'john', 'name': 'John'}, '4': {'username': 'pedro', 'name': 'Pedro'}}, 'employees': {'1': {'username': 'joao', 'name': 'Joao'}, '2': {'username': 'marcos', 'name': 'Marcos'}, '3': {'username': 'Jackie', 'name': 'Jackie Chan'}}}}
+{'CUSTOMER_DELETE': {'user_id': 5}}
+{'CASCADE_DELETION': 'started'}
+{'CASCADE_DELETION': 'finish'}
+{'NEWLY_GEN_USER_ID': 3}
+{'ADD_USER_JSON': {'customers': {'1': {'username': 'marcelo', 'name': 'Marcelo'}, '2': {'username': 'tomas', 'name': 'Tomas'}, '3': {'username': 'john', 'name': 'John'}, '4': {'username': 'pedro', 'name': 'Pedro'}}, 'employees': {'1': {'username': 'joao', 'name': 'Joao'}, '2': {'username': 'marcos', 'name': 'Marcos'}, '3': {'username': 'Jackie', 'name': 'Jackie Chan'}}}}
+{'NEWLY_GEN_PRODUCT_ID': 8}
+{'ADD_PRODUCT_JSON': {'products': {'1': {'product': 'Carro11', 'price': 15500.0, 'qtty': 3}, '2': {'product': 'Carro12', 'price': 16000.0, 'qtty': 4}, '3': {'product': 'Carro13', 'price': 12000.0, 'qtty': 5}, '4': {'product': 'Carro1', 'price': 15000.0, 'qtty': 5}, '5': {'product': 'Carro2', 'price': 25000.0, 'qtty': 10}, '6': {'product': 'Carro3', 'price': 35000.0, 'qtty': 15}, '7': {'product': 'Carro4', 'price': 45000.0, 'qtty': 20}, '8': {'product': 'Moto', 'price': 200.0, 'qtty': 12}}}}
+{'EDIT_PRODUCT_JSON': {'products': {'1': {'product': 'Carro11', 'price': 15500.0, 'qtty': 3}, '2': {'product': 'Carro12', 'price': 16000.0, 'qtty': 4}, '3': {'product': 'Carro13', 'price': 12000.0, 'qtty': 5}, '4': {'product': 'Carro1', 'price': 15000.0, 'qtty': 5}, '5': {'product': 'Carro2', 'price': 25000.0, 'qtty': 10}, '6': {'product': 'Carro3', 'price': 35000.0, 'qtty': 15}, '7': {'product': 'Carro4', 'price': 45000.0, 'qtty': 20}, '8': {'product': 'Moto', 'price': 200.0, 'qtty': 12}}}}
+---END OF EXECUTION!---
+{'CUSTOMER_INIT': {'username': 'marcelo', 'name': 'Marcelo', 'dict_key': 'customers', 'user_id': 1}}
+{'CUSTOMER_INIT': {'username': 'tomas', 'name': 'Tomas', 'dict_key': 'customers', 'user_id': 2}}
+{'CUSTOMER_INIT': {'username': 'john', 'name': 'John', 'dict_key': 'customers', 'user_id': 3}}
+{'CUSTOMER_INIT': {'username': 'pedro', 'name': 'Pedro', 'dict_key': 'customers', 'user_id': 4}}
+{'CUSTOMER_INIT': {'username': 'marcelo', 'name': 'Marcelo', 'dict_key': 'customers', 'user_id': None}}
+{'NEWLY_GEN_USER_ID': 5}
+{'CUSTOMER_INIT': {'username': 'marcelo', 'name': 'Marcelo', 'dict_key': 'customers', 'user_id': None}}
+{'NEWLY_GEN_USER_ID': 5}
+{'CUSTOMER_INIT': {'username': 'tomas', 'name': 'Tomas', 'dict_key': 'customers', 'user_id': None}}
+{'NEWLY_GEN_USER_ID': 5}
+{'CUSTOMER_INIT': {'username': 'john', 'name': 'John', 'dict_key': 'customers', 'user_id': None}}
+{'NEWLY_GEN_USER_ID': 5}
+{'CUSTOMER_INIT': {'username': 'pedro', 'name': 'Pedro', 'dict_key': 'customers', 'user_id': None}}
+{'NEWLY_GEN_USER_ID': 5}
+{'NEWLY_GEN_USER_ID': 3}
+{'NEWLY_GEN_USER_ID': 3}
+{'NEWLY_GEN_PRODUCT_ID': 8}
+{'NEWLY_GEN_PRODUCT_ID': 8}
+{'NEWLY_GEN_PRODUCT_ID': 8}
+{'NEWLY_GEN_PRODUCT_ID': 8}
+{'CUSTOMER_INIT': {'username': 'james', 'name': 'James Bond', 'dict_key': 'customers', 'user_id': None}}
+{'NEWLY_GEN_USER_ID': 5}
+{'ADD_USER_JSON': {'customers': {'1': {'username': 'marcelo', 'name': 'Marcelo'}, '2': {'username': 'tomas', 'name': 'Tomas'}, '3': {'username': 'john', 'name': 'John'}, '4': {'username': 'pedro', 'name': 'Pedro'}}, 'employees': {'1': {'username': 'joao', 'name': 'Joao'}, '2': {'username': 'marcos', 'name': 'Marcos'}, '3': {'username': 'Jackie', 'name': 'Jackie Chan'}}}}
+{'CUSTOMER_EDIT': {'username': 'daniel', 'name': 'Daniel Craig', 'dict_key': 'customers'}}
+{'EDIT_USER_JSON': {'customers': {'1': {'username': 'marcelo', 'name': 'Marcelo'}, '2': {'username': 'tomas', 'name': 'Tomas'}, '3': {'username': 'john', 'name': 'John'}, '4': {'username': 'pedro', 'name': 'Pedro'}}, 'employees': {'1': {'username': 'joao', 'name': 'Joao'}, '2': {'username': 'marcos', 'name': 'Marcos'}, '3': {'username': 'Jackie', 'name': 'Jackie Chan'}}}}
+{'CUSTOMER_DELETE': {'user_id': 5}}
+{'CASCADE_DELETION': 'started'}
+{'CASCADE_DELETION': 'finish'}
+{'NEWLY_GEN_USER_ID': 3}
+{'ADD_USER_JSON': {'customers': {'1': {'username': 'marcelo', 'name': 'Marcelo'}, '2': {'username': 'tomas', 'name': 'Tomas'}, '3': {'username': 'john', 'name': 'John'}, '4': {'username': 'pedro', 'name': 'Pedro'}}, 'employees': {'1': {'username': 'joao', 'name': 'Joao'}, '2': {'username': 'marcos', 'name': 'Marcos'}, '3': {'username': 'Jackie', 'name': 'Jackie Chan'}}}}
+{'NEWLY_GEN_PRODUCT_ID': 8}
+{'ADD_PRODUCT_JSON': {'products': {'1': {'product': 'Carro11', 'price': 15500.0, 'qtty': 3}, '2': {'product': 'Carro12', 'price': 16000.0, 'qtty': 4}, '3': {'product': 'Carro13', 'price': 12000.0, 'qtty': 5}, '4': {'product': 'Carro1', 'price': 15000.0, 'qtty': 5}, '5': {'product': 'Carro2', 'price': 25000.0, 'qtty': 10}, '6': {'product': 'Carro3', 'price': 35000.0, 'qtty': 15}, '7': {'product': 'Carro4', 'price': 45000.0, 'qtty': 20}, '8': {'product': 'Moto', 'price': 1200.0, 'qtty': 12}}}}
+{'EDIT_PRODUCT_JSON': {'products': {'1': {'product': 'Carro11', 'price': 15500.0, 'qtty': 3}, '2': {'product': 'Carro12', 'price': 16000.0, 'qtty': 4}, '3': {'product': 'Carro13', 'price': 12000.0, 'qtty': 5}, '4': {'product': 'Carro1', 'price': 15000.0, 'qtty': 5}, '5': {'product': 'Carro2', 'price': 25000.0, 'qtty': 10}, '6': {'product': 'Carro3', 'price': 35000.0, 'qtty': 15}, '7': {'product': 'Carro4', 'price': 45000.0, 'qtty': 20}, '8': {'product': 'Moto', 'price': 1200.0, 'qtty': 12}}}}
+---END OF EXECUTION!---
+{'CUSTOMER_INIT': {'username': 'marcelo', 'name': 'Marcelo', 'dict_key': 'customers', 'user_id': 1}}
+{'CUSTOMER_INIT': {'username': 'tomas', 'name': 'Tomas', 'dict_key': 'customers', 'user_id': 2}}
+{'CUSTOMER_INIT': {'username': 'john', 'name': 'John', 'dict_key': 'customers', 'user_id': 3}}
+{'CUSTOMER_INIT': {'username': 'pedro', 'name': 'Pedro', 'dict_key': 'customers', 'user_id': 4}}
+{'CUSTOMER_INIT': {'username': 'marcelo', 'name': 'Marcelo', 'dict_key': 'customers', 'user_id': None}}
+{'NEWLY_GEN_USER_ID': 5}
+{'CUSTOMER_INIT': {'username': 'marcelo', 'name': 'Marcelo', 'dict_key': 'customers', 'user_id': None}}
+{'NEWLY_GEN_USER_ID': 5}
+{'CUSTOMER_INIT': {'username': 'tomas', 'name': 'Tomas', 'dict_key': 'customers', 'user_id': None}}
+{'NEWLY_GEN_USER_ID': 5}
+{'CUSTOMER_INIT': {'username': 'john', 'name': 'John', 'dict_key': 'customers', 'user_id': None}}
+{'NEWLY_GEN_USER_ID': 5}
+{'CUSTOMER_INIT': {'username': 'pedro', 'name': 'Pedro', 'dict_key': 'customers', 'user_id': None}}
+{'NEWLY_GEN_USER_ID': 5}
+{'NEWLY_GEN_USER_ID': 3}
+{'NEWLY_GEN_USER_ID': 3}
+{'NEWLY_GEN_PRODUCT_ID': 8}
+{'NEWLY_GEN_PRODUCT_ID': 8}
+{'NEWLY_GEN_PRODUCT_ID': 8}
+{'NEWLY_GEN_PRODUCT_ID': 8}
+{'CUSTOMER_INIT': {'username': 'james', 'name': 'James Bond', 'dict_key': 'customers', 'user_id': None}}
+{'NEWLY_GEN_USER_ID': 5}
+{'ADD_USER_JSON': {'customers': {'1': {'username': 'marcelo', 'name': 'Marcelo'}, '2': {'username': 'tomas', 'name': 'Tomas'}, '3': {'username': 'john', 'name': 'John'}, '4': {'username': 'pedro', 'name': 'Pedro'}}, 'employees': {'1': {'username': 'joao', 'name': 'Joao'}, '2': {'username': 'marcos', 'name': 'Marcos'}, '3': {'username': 'Jackie', 'name': 'Jackie Chan'}}}}
+{'CUSTOMER_EDIT': {'username': 'daniel', 'name': 'Daniel Craig', 'dict_key': 'customers'}}
+{'EDIT_USER_JSON': {'customers': {'1': {'username': 'marcelo', 'name': 'Marcelo'}, '2': {'username': 'tomas', 'name': 'Tomas'}, '3': {'username': 'john', 'name': 'John'}, '4': {'username': 'pedro', 'name': 'Pedro'}}, 'employees': {'1': {'username': 'joao', 'name': 'Joao'}, '2': {'username': 'marcos', 'name': 'Marcos'}, '3': {'username': 'Jackie', 'name': 'Jackie Chan'}}}}
+{'CUSTOMER_DELETE': {'user_id': 5}}
+{'CASCADE_DELETION': 'started'}
+{'CASCADE_DELETION': 'finish'}
+{'NEWLY_GEN_USER_ID': 3}
+{'ADD_USER_JSON': {'customers': {'1': {'username': 'marcelo', 'name': 'Marcelo'}, '2': {'username': 'tomas', 'name': 'Tomas'}, '3': {'username': 'john', 'name': 'John'}, '4': {'username': 'pedro', 'name': 'Pedro'}}, 'employees': {'1': {'username': 'joao', 'name': 'Joao'}, '2': {'username': 'marcos', 'name': 'Marcos'}, '3': {'username': 'Jackie', 'name': 'Jackie Chan'}}}}
+{'NEWLY_GEN_PRODUCT_ID': 8}
+{'ADD_PRODUCT_JSON': {'products': {'1': {'product': 'Carro11', 'price': 15500.0, 'qtty': 3}, '2': {'product': 'Carro12', 'price': 16000.0, 'qtty': 4}, '3': {'product': 'Carro13', 'price': 12000.0, 'qtty': 5}, '4': {'product': 'Carro1', 'price': 15000.0, 'qtty': 5}, '5': {'product': 'Carro2', 'price': 25000.0, 'qtty': 10}, '6': {'product': 'Carro3', 'price': 35000.0, 'qtty': 15}, '7': {'product': 'Carro4', 'price': 45000.0, 'qtty': 20}, '8': {'product': 'Moto', 'price': 800.0, 'qtty': 12}}}}
+{'EDIT_PRODUCT_JSON': {'products': {'1': {'product': 'Carro11', 'price': 15500.0, 'qtty': 3}, '2': {'product': 'Carro12', 'price': 16000.0, 'qtty': 4}, '3': {'product': 'Carro13', 'price': 12000.0, 'qtty': 5}, '4': {'product': 'Carro1', 'price': 15000.0, 'qtty': 5}, '5': {'product': 'Carro2', 'price': 25000.0, 'qtty': 10}, '6': {'product': 'Carro3', 'price': 35000.0, 'qtty': 15}, '7': {'product': 'Carro4', 'price': 45000.0, 'qtty': 20}, '8': {'product': 'Moto', 'price': 800.0, 'qtty': 12}}}}
+---END OF EXECUTION!---
+{'CUSTOMER_INIT': {'username': 'marcelo', 'name': 'Marcelo', 'dict_key': 'customers', 'user_id': 1}}
+{'CUSTOMER_INIT': {'username': 'tomas', 'name': 'Tomas', 'dict_key': 'customers', 'user_id': 2}}
+{'CUSTOMER_INIT': {'username': 'john', 'name': 'John', 'dict_key': 'customers', 'user_id': 3}}
+{'CUSTOMER_INIT': {'username': 'pedro', 'name': 'Pedro', 'dict_key': 'customers', 'user_id': 4}}
+{'CUSTOMER_INIT': {'username': 'marcelo', 'name': 'Marcelo', 'dict_key': 'customers', 'user_id': None}}
+{'NEWLY_GEN_USER_ID': 5}
+{'CUSTOMER_INIT': {'username': 'marcelo', 'name': 'Marcelo', 'dict_key': 'customers', 'user_id': None}}
+{'NEWLY_GEN_USER_ID': 5}
+{'CUSTOMER_INIT': {'username': 'tomas', 'name': 'Tomas', 'dict_key': 'customers', 'user_id': None}}
+{'NEWLY_GEN_USER_ID': 5}
+{'CUSTOMER_INIT': {'username': 'john', 'name': 'John', 'dict_key': 'customers', 'user_id': None}}
+{'NEWLY_GEN_USER_ID': 5}
+{'CUSTOMER_INIT': {'username': 'pedro', 'name': 'Pedro', 'dict_key': 'customers', 'user_id': None}}
+{'NEWLY_GEN_USER_ID': 5}
+{'NEWLY_GEN_USER_ID': 3}
+{'NEWLY_GEN_USER_ID': 3}
+{'NEWLY_GEN_PRODUCT_ID': 8}
+{'NEWLY_GEN_PRODUCT_ID': 8}
+{'NEWLY_GEN_PRODUCT_ID': 8}
+{'NEWLY_GEN_PRODUCT_ID': 8}
+{'CUSTOMER_INIT': {'username': 'james', 'name': 'James Bond', 'dict_key': 'customers', 'user_id': None}}
+{'NEWLY_GEN_USER_ID': 5}
+{'ADD_USER_JSON': {'customers': {'1': {'username': 'marcelo', 'name': 'Marcelo'}, '2': {'username': 'tomas', 'name': 'Tomas'}, '3': {'username': 'john', 'name': 'John'}, '4': {'username': 'pedro', 'name': 'Pedro'}}, 'employees': {'1': {'username': 'joao', 'name': 'Joao'}, '2': {'username': 'marcos', 'name': 'Marcos'}, '3': {'username': 'Jackie', 'name': 'Jackie Chan'}}}}
+{'CUSTOMER_EDIT': {'username': 'daniel', 'name': 'Daniel Craig', 'dict_key': 'customers'}}
+{'EDIT_USER_JSON': {'customers': {'1': {'username': 'marcelo', 'name': 'Marcelo'}, '2': {'username': 'tomas', 'name': 'Tomas'}, '3': {'username': 'john', 'name': 'John'}, '4': {'username': 'pedro', 'name': 'Pedro'}}, 'employees': {'1': {'username': 'joao', 'name': 'Joao'}, '2': {'username': 'marcos', 'name': 'Marcos'}, '3': {'username': 'Jackie', 'name': 'Jackie Chan'}}}}
+{'CUSTOMER_DELETE': {'user_id': 5}}
+{'CASCADE_DELETION': 'started'}
+{'CASCADE_DELETION': 'finish'}
+{'NEWLY_GEN_USER_ID': 3}
+{'ADD_USER_JSON': {'customers': {'1': {'username': 'marcelo', 'name': 'Marcelo'}, '2': {'username': 'tomas', 'name': 'Tomas'}, '3': {'username': 'john', 'name': 'John'}, '4': {'username': 'pedro', 'name': 'Pedro'}}, 'employees': {'1': {'username': 'joao', 'name': 'Joao'}, '2': {'username': 'marcos', 'name': 'Marcos'}, '3': {'username': 'Jackie', 'name': 'Jackie Chan'}}}}
+{'NEWLY_GEN_PRODUCT_ID': 8}
+{'ADD_PRODUCT_JSON': {'products': {'1': {'product': 'Carro11', 'price': 15500.0, 'qtty': 3}, '2': {'product': 'Carro12', 'price': 16000.0, 'qtty': 4}, '3': {'product': 'Carro13', 'price': 12000.0, 'qtty': 5}, '4': {'product': 'Carro1', 'price': 15000.0, 'qtty': 5}, '5': {'product': 'Carro2', 'price': 25000.0, 'qtty': 10}, '6': {'product': 'Carro3', 'price': 35000.0, 'qtty': 15}, '7': {'product': 'Carro4', 'price': 45000.0, 'qtty': 20}, '8': {'product': 'Moto', 'price': 800.0, 'qtty': 12}}}}
+{'EDIT_PRODUCT_JSON': {'products': {'1': {'product': 'Carro11', 'price': 15500.0, 'qtty': 3}, '2': {'product': 'Carro12', 'price': 16000.0, 'qtty': 4}, '3': {'product': 'Carro13', 'price': 12000.0, 'qtty': 5}, '4': {'product': 'Carro1', 'price': 15000.0, 'qtty': 5}, '5': {'product': 'Carro2', 'price': 25000.0, 'qtty': 10}, '6': {'product': 'Carro3', 'price': 35000.0, 'qtty': 15}, '7': {'product': 'Carro4', 'price': 45000.0, 'qtty': 20}, '8': {'product': 'Moto', 'price': 800.0, 'qtty': 12}}}}
+{'EDIT_PRODUCT_JSON': {'products': {'1': {'product': 'Carro11', 'price': 15500.0, 'qtty': 3}, '2': {'product': 'Carro12', 'price': 16000.0, 'qtty': 4}, '3': {'product': 'Carro13', 'price': 12000.0, 'qtty': 5}, '4': {'product': 'Carro1', 'price': 15000.0, 'qtty': 5}, '5': {'product': 'Carro2', 'price': 25000.0, 'qtty': 10}, '6': {'product': 'Carro3', 'price': 35000.0, 'qtty': 15}, '7': {'product': 'Carro4', 'price': 45000.0, 'qtty': 20}, '8': {'product': 'Moto', 'price': 800.0, 'qtty': 12}}}}
+---END OF EXECUTION!---
